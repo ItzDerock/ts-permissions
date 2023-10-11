@@ -2,6 +2,7 @@
   "name": "ts-permissions",
   "main": "./dist/cjs/index.js",
   "types": "./dist/cjs/index.d.ts",
+  "version": "1.0.0",
   "license": "MIT",
   "author": {
     "name": "Derock",
@@ -10,7 +11,7 @@
   "homepage": "https://github.com/ItzDerock/ts-permissions",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItzDerock/ts-permissions"
+    "url": "https://github.com/ItzDerock/ts-permissions"
   },
   "scripts": {
     "build": "npm-run-all --parallel build:*",
