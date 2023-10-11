@@ -1,2 +1,11 @@
 src/
 test/
+.github/
+.eslintrc.cjs
+.gitignore
+
+bun.lockb
+
+tsconfig.cjs.json
+tsconfig.eslint.json
+tsconfig.json
